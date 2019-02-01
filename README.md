@@ -1,3 +1,6 @@
+# This is a fork library of [G2](https://github.com/antvis/g2)
+with some bugfix & features have not merged to g2. see QUICKFIX.md.
+
 # G2: The Grammar of Graphics in JavaScript
 
 [![](https://img.shields.io/travis/antvis/g2.svg)](https://travis-ci.org/antvis/g2)
